@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on learning and growing together
 - 📫 How to reach me :You can reach me on LinkedIn["https://www.linkedin.com/in/shruti-dhage-b693b4123/"]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: SQL is my favourite language and i still feel i dont know everyhting about SQL.
 
 <!---
 shrutidhage91/shrutidhage91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
